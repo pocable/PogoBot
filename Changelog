@@ -1,0 +1,30 @@
+Changelog v0.06
+
++ Created Library class to allow more custom text
++ CText keywords! 
++ Added bot mod command (!mod <user>) - Toggles
++ Added title command to change the title (!title <title>)
++ Added authorization website http://api.pogo4545.ca/tkey/auth/
++ Added !pb - Displays current pb for game and category.
+* World Record text can be customized
+* Fixed some general bugs
+
+
+Changelog v0.05
+
++ New Raffle window (Will be made nicer in the future)
+* Fixed the character filter so it wont warn you for typing something normal in chat.
+* Updater window now has a title
+* Updater now asks you if you want to open the update location
+* Changed toggle mod to toggle bot mod
+* Changed the warning message when saying a bad word
+* You can only be warned for one thing at a time
+
+
+Changelog v0.04
+
++ Added uptime command
+* Changed update check website location (now http://pogo4545.ca/update/PogoBot)
+* Fixed bug so when you open the UCP frame the bot wont shutdown its commands
+* Announced messages stay on the screen forever until another message comes in
+* Fixed announcement window closing when obtaining an announcement

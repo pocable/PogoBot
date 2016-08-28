@@ -1,0 +1,10 @@
+oauth: REDACTED
+botname: CorrectBot
+twitchsrv: irc.twitch.tv
+admin: pogo4545
+amountofwarning: 3
+advertise: false
+timeinbetween: 30
+speedrunner: true
+prefix: !
+access_token: REDACTED

@@ -1,0 +1,4 @@
+warning_badwords: Please avoid using bad words!
+warning_badsymbol: Please avoid using symbols!
+world_record: World Record for %game% %brl%%category%%brr% is held by %wrplayer% with a time of %wrtime%!
+personal_best: Personal best for %pbplayer% in %pbgame% %brl%%category%%brr% is %pbtime%
